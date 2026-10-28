@@ -1,18 +1,21 @@
 ﻿using System;
-using System.IO;
-using Microsoft.Win32.SafeHandles;
-using System.IO;
-using System.Linq;
+using System.Numerics;
+using Silk.NET.Windowing;
+using Silk.NET.Windowing.Glfw;
+
 
 namespace Core;
+
+
 
 class Program
 {
     static void Main()
     {
 
-        Lexer lexer = new Lexer();
-        lexer.Begin();
+        GameWindow window = new GameWindow();
+        window.Init(600, 600, "hello");
+        window.Run();
         
     }
 }
