@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\c#interpre\bin\Debug\net10.0\c#interpre.exe
+C:\Users\User\Desktop\c#interpre\bin\Debug\net10.0\c#interpre.deps.json
+C:\Users\User\Desktop\c#interpre\bin\Debug\net10.0\c#interpre.runtimeconfig.json
+C:\Users\User\Desktop\c#interpre\bin\Debug\net10.0\c#interpre.dll
+C:\Users\User\Desktop\c#interpre\bin\Debug\net10.0\c#interpre.pdb
+C:\Users\User\Desktop\c#interpre\obj\Debug\net10.0\c#interpre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#interpre\obj\Debug\net10.0\c#interpre.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#interpre\obj\Debug\net10.0\c#interpre.AssemblyInfo.cs
+C:\Users\User\Desktop\c#interpre\obj\Debug\net10.0\c#interpre.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#interpre\obj\Debug\net10.0\c#interpre.dll
+C:\Users\User\Desktop\c#interpre\obj\Debug\net10.0\refint\c#interpre.dll
+C:\Users\User\Desktop\c#interpre\obj\Debug\net10.0\c#interpre.pdb
+C:\Users\User\Desktop\c#interpre\obj\Debug\net10.0\c#interpre.genruntimeconfig.cache
+C:\Users\User\Desktop\c#interpre\obj\Debug\net10.0\ref\c#interpre.dll
