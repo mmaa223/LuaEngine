@@ -9,6 +9,8 @@ namespace Core;
 class GameWindow()
 {
     private static IWindow window;
+    private static uint vao;
+    private static uint vbo;
     private static GL gL;
 
     public void Init(int width, int height, string title)
@@ -34,6 +36,14 @@ class GameWindow()
     {   //тут создаётся контекст и отчищяется цвет на тот чо в систем дравинг колор и там цвета
         gL = window.CreateOpenGL();
         gL.ClearColor(System.Drawing.Color.AliceBlue);
+        //привязываем массив вертексов vao
+        vao = gL.CreateVertexArray();
+        gL.BindVertexArray(vao);
+        //привязываем массив вершин vbo
+        vbo = gL.GenBuffer();
+        gL.BindBuffer(BufferTargetARB.ArrayBuffer, vbo);
+
+        
     }
     public static void Update(double delta)
     {
